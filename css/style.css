@@ -1,0 +1,56 @@
+
+.example {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 150px;
+    padding: 10px;
+}
+
+.element p {
+    background-color: #FF7F50;
+}
+
+.element-2 p {
+    background-color: #FFF8DC;
+}
+
+.element-3 p {
+    background-color: #483D8B;
+}
+
+.element-4 p {
+    background-color: #008000;
+}
+
+#element p {
+    background-color: red;
+}
+
+#element-2 p {
+    background-color: #FFEBCD;
+}
+
+#element-3 p {
+    background-color: #008B8B;
+}
+
+#element-4 p {
+    background-color: #9932CC;
+}
+
+#element-5 p {
+    background-color: #FFB6C1;
+}
+
+#element-6 p {
+    background-color: #20B2AA;
+}
+
+
+
+
+
+
+
+
