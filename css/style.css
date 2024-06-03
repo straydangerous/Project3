@@ -47,8 +47,10 @@
     background-color: #20B2AA;
 }
 
-
-
+.img {
+    display: flex;
+    justify-content: center;
+}
 
 
 
